@@ -1,0 +1,26 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+    color: #000;
+}
+.logo {
+    height: 40px;
+}
+.header .navbar {
+    background-color: transparent !important;
+}
+.navbar{
+    position:fixed;
+    width:100%;
+    background-color:#fff;
+    z-index:10;
+    border-radius:0;
+    border-color:transparent;
+}
+.navbar-default .navbar-nav > li > a{
+    color:#000;
+    
+}
+img{
+    width: auto;
+    height: 700px;
+  }
