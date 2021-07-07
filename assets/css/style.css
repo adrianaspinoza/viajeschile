@@ -48,3 +48,10 @@ p{
     height: 150px;
     width: auto;
 }
+.fa, .fab {
+    font-size: 30px;
+    padding: 10px;
+}
+.redes{
+    width: 80%;
+}
