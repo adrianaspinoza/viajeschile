@@ -41,3 +41,10 @@ p{
 .fa, .fas {
     font-size: 40px;
 }
+.bg-blue{
+    background-color: #2271b3;
+}
+.card img{
+    height: 150px;
+    width: auto;
+}
