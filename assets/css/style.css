@@ -54,3 +54,7 @@ p{
 .redes{
     width: 80%;
 }
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
