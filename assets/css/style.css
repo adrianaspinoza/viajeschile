@@ -5,9 +5,6 @@ body{
 .logo {
     height: 40px;
 }
-.header .navbar {
-    background-color: transparent !important;
-}
 .navbar{
     position:fixed;
     width:100%;
@@ -20,7 +17,9 @@ body{
     color:#000;
     
 }
-
+.navbar-brand img{
+    height: 50px;
+}
 hr{
     height: 1px;
     border: none;
